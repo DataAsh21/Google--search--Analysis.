@@ -1,5 +1,5 @@
-# Google--search--Analysis.
-## 🔍🐍 Google Search Analysis with Python! 📊🔎Unveiling Insights from the Digital Landscape 📈🌐🔎
+
+# 🔍🐍 Google Search Analysis with Python! 📊🔎Unveiling Insights from the Digital Landscape 📈🌐🔎
 
 ## 🔍📊 Unlocking Google Search Data with Python
 
@@ -11,6 +11,7 @@ Let's dive in! 💻🔍📊
 ### Installation and Setup ⚙️
 To kickstart our analysis, we need to install the "by trends" library, which provides access to Google Trends data. 
 Execute the following command in your Python environment to install it:
+
 ![Screenshot 2023-06-23 201454](https://github.com/DataAsh21/Google--search--Analysis./assets/133566238/ba71825d-7541-4b8b-b535-b983e0d6fae5)
 
 ### Importing Required Libraries 📚
